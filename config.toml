@@ -1,0 +1,21 @@
+baseURL = 'https://fabiobozzo.eth/'
+languageCode = 'en-us'
+title = 'Fabio Bozzo'
+theme = 'nix'
+
+[params]
+  Name = "Fabio Bozzo"
+  HeaderUsername = "fabiobozzo"
+  HeaderHostname = "web3"
+  About = "Hi I'm Fabio and this is my personal website. I am a Web3 developer, tech-savvy and family man. I like writing code, nature, basketball, guitars and travel. On this website you can expect my projects and blog posts about everything I love. Enjoy!"
+  ProfilePicture = "https://fabio.infura-ipfs.io/ipfs/QmdHjxM2sy71qBtx731bHoFHdni5LTRBZSkyagkbKXeCqu"
+  Email = "fabio.bozzo@gmail.com"
+  FacebookID = "bozzofabio"
+  GithubID = "fabiobozzo"
+  InstagramID = "fabiobozzo"
+  LinkedInID = "fabiobozzo"
+  MediumID = "fabiobozzo"
+  Mobile = "+31-6-21-636-111"
+  TwitterID = "fabiobozzo"
+  YoutubeID = "mustavio"
+
